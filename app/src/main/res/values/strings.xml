@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="userlist">UserList</string>
+    <string name="welcome">Welcome</string>
+    <string name="adduser">AddUser</string>
+    <string name="dash_board">Dash Board</string>
+    <string name="useremail">useremail</string>
+    <string name="userphone">userphone</string>
+    <string name="useraddress">useraddress</string>
+    <string name="username">username</string>
+    <string name="name">Name</string>
+    <string name="user_registration">User Registration !!!</string>
+    <string name="submit">Submit</string>
+    <string name="abc_xyz_com">abc@xyz.com</string>
+    <string name="_9119119119">9119119119</string>
+    <string name="address">Address</string>
+    <string name="list_of_users">List of Users</string>
+</resources>
